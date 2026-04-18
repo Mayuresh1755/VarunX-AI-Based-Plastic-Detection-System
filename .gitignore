@@ -1,0 +1,5 @@
+# Ignore ML artifacts
+*.pt
+runs/
+weights/
+ML_model/runs/

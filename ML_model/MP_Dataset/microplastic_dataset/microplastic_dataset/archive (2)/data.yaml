@@ -1,0 +1,6 @@
+train: D:\codes\python\ML_model\MP_Dataset\microplastic_dataset\microplastic_dataset\archive (2)\train\images
+val: D:\codes\python\ML_model\MP_Dataset\microplastic_dataset\microplastic_dataset\archive (2)\valid\images
+test: D:\codes\python\ML_model\MP_Dataset\microplastic_dataset\microplastic_dataset\archive (2)\test\images  # optional
+
+nc: 1
+names: ['Microplastic']

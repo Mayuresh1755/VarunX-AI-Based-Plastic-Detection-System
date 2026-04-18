@@ -55,7 +55,7 @@ Visualization Output
 
 ## 🧠 Model Details
 
-- **Model:** YOLO (Object Detection)
+- **Model:** YOLO v12 (Object Detection)
 - **Task:** Detect and classify macro-plastics
 - **Approach:** Real-time single-stage detection
 - **Output:** Bounding boxes + class labels

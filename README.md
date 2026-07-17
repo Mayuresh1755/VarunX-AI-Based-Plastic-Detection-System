@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">♻️ VarunX – AI-Based Plastic Detection System</h1>
+<h1 align="center">♻️ Ecolens – AI-Based Plastic Detection System</h1>
 <p align="center">
   <i>Detecting macro-plastics using Computer Vision and Deep Learning.</i>
 </p>
